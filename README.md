@@ -19,7 +19,7 @@
 <b><p><i>Continuously striving to expand my knowledge and stay up to date with the latest industry trends, I am constantly exploring new technologies and frameworks. I believe in the power of collaboration and enjoy working with like-minded individuals to create outstanding projects.</i></p></b>
 <p>  🔗 Feel free to explore my repositories to dive into the code and discover more about my projects. If you have any questions, ideas, or collaboration opportunities, don't hesitate to reach out. Let's create something amazing together! </p>
 
-<img align="right" alt="Coding" width="655" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"/>
+<img align="right" alt="Coding" width="615" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"/>
 
 <h2>Tech Stack</h2>
 <ul>
