@@ -73,7 +73,7 @@
 <!-- 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aayush20008&show_icons=true&locale=en&layout=default&theme=light&hide=language1,language2" alt="aayush20008" /></p> -->
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=aayush20008&show_icons=true&locale=en&layout=default&theme=light" alt="aayush20008" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aayush20008&show_icons=true&locale=en&layout=default&theme=light" alt="aayush20008" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=aayush20008&" alt="aayush20008" /></p>
 
 <b>🌟 Thank you for visiting my GitHub profile. Let's connect and build the future through innovative games, applications, and visual experiences! 🚀</b>
