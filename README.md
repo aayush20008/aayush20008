@@ -58,7 +58,7 @@
 
 - 📫 How to reach me **aayush7966@gmail.com**
 
-- ⚡ Fun fact **🌌 Fun fact: I can recite the entire "Hello, World!" program in five different programming languages. From the classic "Hello, World!" in C to the more modern CSharp, I've got you covered in multiple coding languages! Let's say hello to the world together in various ways! 👋🌍**
+- **🌌 Fun fact: I can recite the entire "Hello, World!" program in five different programming languages. From the classic "Hello, World!" in C to the more modern CSharp, I've got you covered in multiple coding languages! Let's say hello to the world together in various ways! 👋🌍**
 
 <h3 align="left">Connect with me:</h3>
 
